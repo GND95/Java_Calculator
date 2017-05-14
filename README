@@ -1,0 +1,7 @@
+DIRECTIONS: This calculator program works like a typical scientific calculator. 
+The "Memory =" is the number you have stored in the memory of the calculator. You can use this number to add or subtract from the current value, "Total =." "Total =" is the output as you would see on a traditional calculator.
+You can use the "MClear," "Mrecall," "M+," "M-," and "MSave" buttons to modify the value saved in memory. 
+As you would expect, "MClear" removes the value from memory and "MRecall" takes the value in the memory and puts it to the output so you can perform functions such as multiplication and division or whatever other calculations you wish on that value.  
+“M+” adds the value in the output or “Total =” section to the value in memory. 
+“M-” subtracts the "Total =" value from the value that is in memory. 
+“MSave” saves the current value in the output, “Total =,” to memory.
